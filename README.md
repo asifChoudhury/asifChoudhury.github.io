@@ -1,4 +1,4 @@
-# Responsive Portfolio
+#Sample Responsive Portfolio
 
 The portfolio is a showcase for some of the projects I have developed so far.
 
